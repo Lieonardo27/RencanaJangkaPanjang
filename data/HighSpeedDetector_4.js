@@ -1,0 +1,1 @@
+var json_HighSpeedDetector_4 = {"type":"FeatureCollection","name":"HighSpeedDetector_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0},"geometry":{"type":"Point","coordinates":[116.754906256282553,-0.924773596037498]}}]}
